@@ -1,8 +1,3 @@
-﻿/*
-WaterToDo
-周涵轶 THU 航05 2020013488
-*/
-
 #include <iostream>
 #include <string>
 #include <string.h>
