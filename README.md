@@ -1,5 +1,5 @@
 # WaterToDo
-By THU Fehlen
+By Fehlen
 
 Purpose of WaterToDo：
     做一个自己喜欢符合自己需求的提醒事项软件；
